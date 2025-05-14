@@ -10,7 +10,7 @@ echo "--- Welcome to the Quiz ---\n\n";
 echo "Q1. What is the capital of France?\n";
 echo "a) Berlin\n";
 echo "b) Paris\n";
-echo "c) Rome\n";
+echo "c) Dhaka\n";
 echo "Your answer (a/b/c): ";
 $answer1 = trim(fgets(STDIN));
 
